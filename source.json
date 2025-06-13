@@ -1,22 +1,22 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"GirlyDrink's Tols",
+    "id":"com.girlydrink.tools-listing",
+    "url":"https://girlydrink.github.io/Tools_Listing_VCC/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "name":"GirlyDrink",
+        "url":"https://github.com/GirlyDrink/"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"GirlyDrink listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/GirlyDrink/Tools_Listing_VCC",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "girlydrink/SmartCopyTool-VPM",
+        "girlydrink/CreditTool-VPM"
     ],
-    "packages":[
+    "__packages":[
         {
             "name":"com.vrchat.udonsharp",
             "releases":[
