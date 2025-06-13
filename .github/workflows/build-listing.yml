@@ -5,8 +5,8 @@ on:
   push:
     branches: main
     paths: source.json
-  repository_dispatch:
-    types: [tool_release_created]
+#  repository_dispatch:
+#    types: [tool_release_created]
   
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
